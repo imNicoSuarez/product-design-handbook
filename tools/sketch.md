@@ -182,7 +182,7 @@ Es realmente útil cuando se necesita cambiar alguna característica de los esti
 
 _Sketch Syle Inventory_ también puede generar todos los colores y símbolos presentes en el archivo de Sketch, incluso exportarlos.
 
-### 2.6 [**Sketch Page Numbers**](https://github.com/getflourish/Sketch-Style-Inventory)
+### 2.6 [**Sketch Page Numbers**](https://github.com/gotomedia/Sketch-PageNumbers)
 
 Este plugin permite añadir numeración a los artboards en Sketch de tal forma que estos se numeran según el orden en el que aparecen en el listado de capas \(también pueden numerarse en orden inverso\).
 
